@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - Hostile
+  - Hostage
+  - PatrolPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Behind rear furniture
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 1824432729
+    locked: 0
+  - name: Background
+    uniqueID: 439591575
+    locked: 0
+  - name: Wall
+    uniqueID: 354725769
+    locked: 0
+  - name: Floor
+    uniqueID: 1250681381
+    locked: 0
+  - name: Door
+    uniqueID: 545123523
+    locked: 0
+  - name: Hostile behind desk
+    uniqueID: 1991871497
+    locked: 0
+  - name: Furniture rear
+    uniqueID: 1506213503
+    locked: 0
+  - name: Hostile
+    uniqueID: 332130961
+    locked: 0
+  - name: Player
+    uniqueID: 2333941321
+    locked: 0
+  - name: Furniture front
+    uniqueID: 912324973
+    locked: 0
+  - name: Foreground
+    uniqueID: 3347533093
+    locked: 0
